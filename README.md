@@ -18,4 +18,18 @@ tiempo que tarda en ejecutarse una tx
 
 WEI es la unidad que entiende la EVM (que se convierte en ether)
 
-costo por linea - GAS
+GAS es el costo por linea
+
+El limite de gas se configura desde donde se consumen los servicios
+desarrollados en Solidity.
+
+ABI json para usar desde el Frontend
+
+Bytecode para la EVM
+
+
+Direccion de contratos????? preguntar
+
+Nomeclatura:
+
+nombredecontrato_test.sol
