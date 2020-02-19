@@ -33,3 +33,44 @@ Direccion de contratos????? preguntar
 Nomeclatura:
 
 nombredecontrato_test.sol
+
+APP
+Centralizada
+1 solo servidor
+1 target inform. almacenada
+
+DAPP
+Distribuida
+> servidores
+Información compartida en n sitios o backend
+
+Ejemplos:
+
+CryptoKitties
+
+Etherisc
+
+Golem
+
+Ethlance
+
+ROMANTIZADA
+
+HERRAMIENTAS
+
+Geth - plataforma ether (nodo donde se desplega - simula que estas en la blockchain)
+
+JSON RPC - protocolo
+
+Test RPC - para testear los contratos
+
+Truffle - framework para armar el esqueleto de la app - tipo template
+
+Remix - IDE para desarrollo
+-----------------------------
+geth.ethereum.org/downloads
+
+Frontier ...
+----------------------------
+
+nodo local -rpc (puerto 8045)
