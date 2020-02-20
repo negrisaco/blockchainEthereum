@@ -72,5 +72,20 @@ geth.ethereum.org/downloads
 
 Frontier ...
 ----------------------------
-
 nodo local -rpc (puerto 8045)
+
+Intro a Solidity
+
+import -> parecido a herencia, importamos desde otro contrato (como los js de node)
+contract elNombreDelContrato define al contrato 
+referenciarlo al hash (ganache te dice cual es el address contract)
+tipo de dato + acceso (publico o privado) + nombre de la variable
+metodos dentro del contrato, se definen con la palabra reservada function + nombre() + accesso + no te cobra la tx (ej: pure o view) + returns (string)
+;
+
+view varia el contenido de la fn
+
+pure no hace cambios
+
+
+https://dappradar.com/
